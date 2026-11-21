@@ -8,7 +8,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshclusive/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moshclusive)
-[![Adobe Stock](https://img.shields.io/badge/Adobe_Stock-Portfolio-FA0F00?style=for-the-badge&logo=adobe&logoColor=white)](https://stock.adobe.com/contributor/210747933/moshclusive)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moshclusive)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/moshclusive)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@moshclusive)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/moshclusive)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.supportkori.com/moshclusive)
 
 </div>
 
@@ -54,7 +59,9 @@ Found a bug or have an improvement? Every repo has a `CONTRIBUTING.md`. Fork it,
 
 ### Let's connect
 
-[Facebook](https://www.facebook.com/moshclusive) · [LinkedIn](https://www.linkedin.com/in/moshclusive/) · [Adobe Stock](https://stock.adobe.com/contributor/210747933/moshclusive)
+[Facebook](https://www.facebook.com/moshclusive) · [LinkedIn](https://www.linkedin.com/in/moshclusive/) · [Instagram](https://www.instagram.com/moshclusive) · [Behance](https://www.behance.net/moshclusive) · [YouTube](https://www.youtube.com/@moshclusive) · [Pinterest](https://www.pinterest.com/moshclusive)
+
+[Buy me a coffee](https://www.supportkori.com/moshclusive)
 
 *Design first. Tools that keep up.*
 
