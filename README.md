@@ -6,7 +6,7 @@ I design in Photoshop & Illustrator — social media, ads, and print — and I b
 
 - 🎨 **Design:** Social Media · Ads · Print Design
 - 🛠️ **Tools:** Photoshop · Illustrator
-- 💼 **Fiverr:** [fiverr.com/moshclusive](https://www.fiverr.com/moshclusive) — Level 2 Seller
+- 📘 **Facebook:** [facebook.com/moshclusive](https://www.facebook.com/moshclusive)
 - 🔗 **LinkedIn:** [linkedin.com/in/moshclusive](https://www.linkedin.com/in/moshclusive/)
 
 ## 🧰 My Tools
@@ -30,7 +30,7 @@ Found a bug or have an improvement? Every repo has a `CONTRIBUTING.md` — fork 
 
 ## 📬 Work with me
 
-- Fiverr: https://www.fiverr.com/moshclusive
+- Facebook: https://www.facebook.com/moshclusive
 - LinkedIn: https://www.linkedin.com/in/moshclusive/
 - Adobe Stock: https://stock.adobe.com/contributor/210747933/moshclusive
 
