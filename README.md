@@ -32,7 +32,7 @@ When a repetitive task slows me down, I build a tool to fix it. That is how most
 
 ## My Tools
 
-Every tool below is free for personal, non-commercial use. Download it, use it, and if you find a bug or have an idea, open a pull request. I read them all.
+Every tool below is free for personal, non-commercial use. Download it, use it, and if you find a bug or have an idea, open an issue. I read them all.
 
 | Tool | What it does | |
 | --- | --- | --- |
@@ -45,14 +45,15 @@ Every tool below is free for personal, non-commercial use. Download it, use it, 
 | **MoodBox** | Design reference boards, clipboard history and quick launcher. Desktop app + Chrome extension. | [Repo](https://github.com/moshclusive/moodbox) · [Download](https://github.com/moshclusive/moodbox/releases) |
 | **Pexora** | Desktop prompt workspace for organizing AI prompts, with local backup and Sheets sync. | [Repo](https://github.com/moshclusive/pexora) · [Download](https://github.com/moshclusive/pexora/releases) |
 | **Thumbix** | Windows Explorer thumbnails and live hover previews for PSD, AI, EPS, SVG and font files. | [Repo](https://github.com/moshclusive/thumbix) · [Download v1.0.0](https://github.com/moshclusive/thumbix/releases) |
+| **Renom** | Batch file renamer for Windows: rename, copy, move and zip files with IF/THEN rules, preview and undo. | [Repo](https://github.com/moshclusive/renom) · [Download v2.1.0](https://github.com/moshclusive/renom/releases) |
 
-> Desktop tools have a ready-to-use download under **Releases**. Extensions install by loading unpacked from Chrome. Every repo also has the full source, so you can look under the hood or contribute.
+> Desktop tools have a ready-to-use download under **Releases**. Extensions install by loading unpacked from Chrome. 
 
 ---
 
 ## Contribute
 
-Found a bug or have an improvement? Every repo has a `CONTRIBUTING.md`. Fork it, fix it, open a pull request. All tools are source-available under the **PolyForm Noncommercial License 1.0.0** (QuickShot keeps its MIT Modified Non-Commercial license): free for personal, non-commercial use, with credit to the author. You may not sell them or claim them as your own.
+Found a bug or have an improvement? Every repo has a `CONTRIBUTING.md`. Open an issue, or a pull request for docs and extension fixes. All tools are licensed under the **PolyForm Noncommercial License 1.0.0** (QuickShot keeps its MIT Modified Non-Commercial license): free for personal, non-commercial use, with credit to the author. You may not sell them or claim them as your own.
 
 ---
 
